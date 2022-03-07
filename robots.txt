@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://yourcinema.com.ua
+
+# Sitemaps
+Sitemap: https://yourcinema.com.ua/sitemap.xml
